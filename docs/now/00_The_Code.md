@@ -1,5 +1,9 @@
 , Agency
 
+> Pathologist = 我的观察视角
+> Cheetah     = 我的行动节律
+> Predator   = 我的能量来源（仅限执行时）
+
 
 
 早期阶段：身份过载（Identity Overload）

@@ -15,8 +15,11 @@ Fire_then_Aim / Act then adjust
   * 马基雅维利（Machiavelli）
   * 以爱因斯坦为代表的经验主义箴言
 
-* 
-  身份危机与完美主义陷阱
+* 身份危机与完美主义陷阱
+  
+* *Information Foraging without Action*
+
+* *Knowledge-as-Identity Illusion*
 
 
 
