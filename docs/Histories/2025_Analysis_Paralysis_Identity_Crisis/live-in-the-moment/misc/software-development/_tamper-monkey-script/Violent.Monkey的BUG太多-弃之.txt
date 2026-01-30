@@ -1,0 +1,2 @@
+ViolentMonkey看起来github上的star很多，但是使用起来bug太多，经常找不到错误在哪。
+Tamper刷新本地缓存也很容易。就用tampermonkey

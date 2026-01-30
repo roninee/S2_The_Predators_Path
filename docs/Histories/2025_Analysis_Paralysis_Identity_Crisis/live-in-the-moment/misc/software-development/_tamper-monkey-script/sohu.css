@@ -1,0 +1,52 @@
+/*div.main-right[data-role="main-news"]>.list16{*/
+
+.list16, .focus-news-box .news{
+    /*border-bottom: 1px solid yellow !important;*/
+    /*margin-bottom: 20px !important;*/
+    padding: 2px  !important;
+
+}
+
+.focus-news .list16>ul:first-child{
+    font-weight: bold;
+}
+
+body>div>div {
+    border-bottom: 2px solid #2046ad !important;
+    /*margin: 3px  !important;*/
+    /*padding: 3px  !important;*/
+}
+
+#entrance{
+    display: none !important;
+}
+
+/* document.querySelectorAll('.first-title, strong').forEach(e=>e.style.fontSize='18px'); */
+/* , a[data-spm-data="1"] */
+span.first-title, strong{
+    font-size: 18px !important;
+
+}
+
+li:has([data-god-id]){
+    display: none !important;
+}
+
+.sohu-index-v3 a{
+    color: #ababab !important;
+}
+
+article.article, .left-feed{
+    color: #ababab !important;
+    background: #272727  !important;
+}
+
+.chain-item-text .text-info{
+    color: #ababab !important;
+    background: #272727  !important;
+}
+
+.list16{
+    color: #ababab !important;
+    background: #272727  !important;
+}

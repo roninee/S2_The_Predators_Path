@@ -1,0 +1,43 @@
+# --- 🐍 Python (Core-Server) ---
+__pycache__/
+*.py[cod]
+*$py.class
+# 虚拟环境 (如果你用了)
+venv/
+.venv/
+env/
+
+# --- ⚛️ Node.js / React (Web-Interface) ---
+node_modules/
+dist/
+build/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+
+# --- ☁️ Google / API Keys (敏感信息绝对不能上传) ---
+.env
+*.pem
+key.json
+secrets.yaml
+
+# --- 🖥️ OS / IDE (系统垃圾) ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+*.db-wal
+*.db-shm
+
+project_context.md
+project_context_backup.md
+LDOCE6*
+dictionary.db
+/frontend/public/longman_media

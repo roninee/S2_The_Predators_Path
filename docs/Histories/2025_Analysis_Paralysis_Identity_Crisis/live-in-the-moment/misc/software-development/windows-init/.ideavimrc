@@ -1,0 +1,32 @@
+Plug '<extension-github-reference>'
+
+Plug 'https://github.com/tpope/vim-surround'
+Plug 'vim-surround'
+Plug 'https://www.vim.org/scripts/script.php?script_id=1697'
+set surround
+
+Plug 'https://github.com/tpope/vim-commentary'
+Plug 'vim-commentary'
+Plug 'https://www.vim.org/scripts/script.php?script_id=3695'
+Plug 'tomtom/tcomment_vim'
+Plug 'tcomment_vim'
+Plug 'https://www.vim.org/scripts/script.php?script_id=1173'
+set commentary
+
+Plug 'https://github.com/machakann/vim-highlightedyank'
+Plug 'vim-highlightedyank'
+set highlightedyank
+
+
+Plug 'https://github.com/easymotion/vim-easymotion'
+Plug 'vim-easymotion'
+let mapleader=","
+set easymotion
+
+Plug 'vim-matchit'
+Plug 'chrisbra/matchit'
+set matchit
+
+set hls
+set incsearch
+set ignorecase

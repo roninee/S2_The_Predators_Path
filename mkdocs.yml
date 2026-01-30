@@ -1,0 +1,50 @@
+site_name: Fire, then Aim
+site_url: https://mydomain.org/S2_The_Predators_Path
+dev_addr: 0.0.0.0:8000
+theme:
+  name: material
+  favicon: images/favicon.webp
+
+  features:
+  - content.code.copy
+  - search.suggest
+  - search.highlight
+  - toc.integrate
+  palette:
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+not_in_nav: |
+  index.md
+extra_css:
+  - assets/extra.css
+  - assets/accordion.css
+
+extra_javascript:
+  - assets/accordion.js  # 确保路径正确
+
+plugins:
+  - search:
+      lang:
+          - en
+          - ja
+      separator: '[\s\-\.]+'
+  # - awesome-pages
+  - section-cards
+  - awesome-nav
+  - tags:
+      listings_map:
+        custom-id:
+          toc: true
