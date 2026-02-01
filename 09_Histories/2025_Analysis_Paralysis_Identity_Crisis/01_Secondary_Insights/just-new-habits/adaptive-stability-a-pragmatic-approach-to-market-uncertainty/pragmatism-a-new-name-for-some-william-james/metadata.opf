@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5fde5d46-49e5-4148-9550-86814872a0a9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5fde5d46-49e5-4148-9550-86814872a0a9</dc:identifier>
+        <dc:title>Pragmatism A New Name for Some Old Ways of Thinking</dc:title>
+        <dc:creator opf:file-as="James , William &amp; James , William" opf:role="aut">William James</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (7.17.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2018-01-16T16:00:00+00:00</dc:date>
+        <dc:rights>Public domain in the USA.</dc:rights>
+        <dc:language>en</dc:language>
+        <dc:subject>Pragmatism</dc:subject>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>
